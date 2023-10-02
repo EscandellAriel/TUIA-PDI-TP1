@@ -18,8 +18,13 @@ Para correr el codigo del primer ejercicio situarse en la carpeta Ej1/ abriendo 
 ```bash
 cd Ej1
 ```
-```python
+
+Dependiendo SO y configuracion
+```windows
 python ecualizacion.py
+```
+```bash
+python3 ecualizacion.py
 ```
 
 Para el segundo ejercicio repetir las acciones volviendo primero a la raiz del proyecto
@@ -27,9 +32,12 @@ Para el segundo ejercicio repetir las acciones volviendo primero a la raiz del p
 cd ..
 cd Ej2
 ```
-
-```python
+Dependiendo SO y configuracion
+```windows
 python formularios.py
+```
+```bash
+python3 formularios.py
 ```
 
 
